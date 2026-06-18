@@ -1,1 +1,1 @@
-使用Matplotlib画图的常用方法
+使用Matplotlib的常用方法
